@@ -59,7 +59,7 @@ try {
 }
 
 git branch -M main
-if (git remote get-url origin 2>$null) {
+if ((git remote) -contains 'origin') {
     git remote remove origin
 }
 git remote add origin "https://$Token@github.com/$repoFullName.git"
