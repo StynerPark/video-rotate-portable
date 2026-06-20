@@ -1,8 +1,20 @@
 # Video Rotate Portable
 
+> Built with assistance from OpenAI Codex.  
+> OpenAI Codex의 도움을 받아 제작되었습니다.
+
 Video Rotate Portable is a small Windows GUI for adding video rotation metadata without re-encoding.
 
+Video Rotate Portable은 재인코딩 없이 동영상 회전 메타데이터를 빠르게 추가하는 Windows용 포터블 GUI 앱입니다.
+
 ![Video Rotate Portable icon](RotateIcon.png)
+
+## Screenshot / 스크린샷
+
+![Video Rotate Portable main window](screenshots/main.png)
+
+Main window for adding videos, assigning per-file rotation, choosing an output location, and running the batch process.  
+동영상을 추가하고 파일별 회전값을 지정한 뒤 출력 위치를 선택해 일괄 작업을 실행하는 메인 화면입니다.
 
 ## Features
 
