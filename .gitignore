@@ -1,0 +1,6 @@
+*.exe
+*.zip
+rotate_log.txt
+tools/
+bin/
+obj/
